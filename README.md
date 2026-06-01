@@ -1,5 +1,5 @@
 <div>
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&section=header&reversal=false&text=%F0%9F%91%8B%20Hi,%20I'm%20C%C3%A1ssia%20Irene!&fontSize=40&fontColor=F5F5F5&fontAlign=50&fontAlignY=55&stroke=-&animation=fadeIn&descAlign=50&descAlignY=50&textBg=false&color=45637B"  />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&section=header&reversal=false&text=%F0%9F%91%8B%20Hi,%20I'm%20C%C3%A1ssia%20Nascimento!&fontSize=40&fontColor=F5F5F5&fontAlign=50&fontAlignY=55&stroke=-&animation=fadeIn&descAlign=50&descAlignY=50&textBg=false&color=45637B"  />
 </div>
 
 <br>
@@ -131,7 +131,7 @@
   <br>
 
 📊 **AM-Consultoria — Operational Intelligence & Audit System** <br>
- <br> 🔗 [GitHub](https://github.com/Cassia-Irene/AM-Consultoria.git) <br>
+ <br> 🔗 [GitHub](https://github.com/cassia-nascimento/AM-Consultoria.git) <br>
   <br>*A business management platform with intelligence engines for risk scoring and audit. Features complex UI components like tracking timelines and attention panels.*</p>
   *Key learning: Full-stack integration (FastAPI + Next.js), Docker Orchestration, and Advanced SQL/PostgreSQL.*
 
@@ -157,13 +157,13 @@
   <!-- Stats Card -->
   <img 
     style="margin-right: 2px;" 
-    src="https://raw.githubusercontent.com/Cassia-Irene/Cassia-Irene/stats-output/stats.svg"
+    src="https://raw.githubusercontent.com/cassia-nascimento/cassia-nascimento/stats-output/stats.svg"
     height="160" 
     alt="stats graph" />
  &nbsp;
   <!-- Streak Card -->
   <img 
-    src="https://streak-stats.demolab.com?user=Cassia-Irene&locale=en&mode=daily&theme=react&ring=00DDFF&fire=CB0007&currStreakNum=F5F5F5&currStreakText=F5F5F5&sideNums=E0E0E0&hide_border=false&border_radius=5&order=3" 
+    src="https://streak-stats.demolab.com?user=cassia-nascimento&locale=en&mode=daily&theme=react&ring=00DDFF&fire=CB0007&currStreakNum=F5F5F5&currStreakText=F5F5F5&sideNums=E0E0E0&hide_border=false&border_radius=5&order=3" 
     height="160" 
     alt="streak graph"  />
 </div>
@@ -173,7 +173,7 @@
 <div align="center">
   <!-- Top Languages Card -->
   <img 
-    src="https://raw.githubusercontent.com/Cassia-Irene/Cassia-Irene/languages-output/languages.svg" 
+    src="https://raw.githubusercontent.com/cassia-nascimento/cassia-nascimento/languages-output/languages.svg" 
     height="160" 
     alt="languages graph"  />
 </div>
@@ -191,7 +191,7 @@
 <table cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; border:none;">
   <tr>
     <td style="border:none; padding:0; margin:0; line-height:0;">
-      <a href="https://www.linkedin.com/in/cassia-irene/" target="_blank" style="text-decoration:none; border:none;">
+      <a href="https://www.linkedin.com/in/cassia--nascimento/" target="_blank" style="text-decoration:none; border:none;">
         <img src="https://skillicons.dev/icons?i=linkedin" width="36" alt="LinkedIn" style="display:block; border:none; line-height:0;" />
       </a>
     </td>
