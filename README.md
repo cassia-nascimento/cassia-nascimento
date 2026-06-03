@@ -132,7 +132,7 @@
 
 📊 **AM-Consultoria — Operational Intelligence & Audit System** <br>
  <br> 🔗 [GitHub](https://github.com/cassia-nascimento/AM-Consultoria.git) <br>
- 🔗 [Live Demo](am-consultoria.vercel.app) <br>
+ 🔗 [Live Demo](https://am-consultoria.vercel.app) <br>
   <br>*A business management platform with intelligence engines for risk scoring and audit. Features complex UI components like tracking timelines and attention panels.*</p>
   *Key learning: Full-stack integration (FastAPI + Next.js), Docker Orchestration, and Advanced SQL/PostgreSQL.*
 
