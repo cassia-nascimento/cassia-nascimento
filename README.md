@@ -139,7 +139,7 @@
 
 💎 **Nexus US — LLC Formation Platform (No Country Simulation)** <br>
   <br>🔗 [GitHub](https://github.com/No-Country-simulation/S02-26-Equipe-40-Web-App-Development) <br>
-  🔗 [Live Demo](https://nexus-us-app.vercel.app/) <br>
+  🔗 [Live Demo](https://nnexus.framer.website/) <br>
   <br>*Premium full-stack e-commerce for global founders. Features a high-conversion Dark Mode interface with Glassmorphism and robust Stripe integration.*</p>
   *Key learning: Complex animations with Framer, Stripe Payment Flow, and Full-stack collaboration.*
 
