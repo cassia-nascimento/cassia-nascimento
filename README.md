@@ -15,7 +15,7 @@
 <h2 align="left">🚀 About Me</h2>
 
 <p align="left">
-- 🎓 Software Engineering student currently in my 3rd semester at UNDB. 
+- 🎓 Software Engineering student currently in my 4rd semester at UNDB. 
 <br>- 💻 Primarily focused on Frontend development, creating responsive and user-centric web applications.
 <br>- 🎨 UI/UX Enthusiast: Using Figma, Framer, and Canva to bridge the gap between design and implementation.
 <br>- 🛠 Academic experience with Java and Python, focusing on system integration and backend logic.
